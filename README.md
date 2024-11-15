@@ -1,1 +1,1 @@
-# human_activity_recognition_HARTH
+# Human Activity Recognition using Accelerometer Data
